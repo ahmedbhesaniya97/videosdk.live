@@ -83,7 +83,7 @@
 <td><a href="https://docs.videosdk.live/android/guide/video-and-audio-calling-api-sdk/getting-started" target="_blank" rel="noopener noreferrer">docs-android</a></td><td><a href="https://github.com/videosdk-live/videosdk-rtc-android-java-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-android</a></td>
     <td><a href="https://docs.videosdk.live/android/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-android</a></td>
 <td>-</td>
-<td><a href="https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b" target="_blank" rel="noopener noreferrer">📲  android-demo</a></td>
+<td><a href="https://appdistribution.firebase.dev/i/99ae2c5db3a7e446" target="_blank" rel="noopener noreferrer">📲  android-demo</a></td>
     <td>-</td>
   </tr>
   
@@ -104,7 +104,7 @@
     <td><a href="https://github.com/videosdk-live/videosdk-rtc-flutter-sdk-example" target="_blank" rel="noopener noreferrer">videosdk-flutter</a></td>
     <td><a href="https://docs.videosdk.live/flutter/api/sdk-reference/setup" target="_blank" rel="noopener noreferrer">videosdk-flutter</a></td>
     <td><a href="https://pub.dev/packages/videosdk" target="_blank" rel="noopener noreferrer">videosdk-flutter</a></td>
-    <td><a href="https://appdistribution.firebase.google.com/pub/i/0f3ac650239a944b" target="_blank" rel="noopener noreferrer">📲  android-demo</a></td>
+    <td><a href="https://appdistribution.firebase.dev/i/80c2c6cc9fcb89b0" target="_blank" rel="noopener noreferrer">📲  android-demo</a></td>
     <td><a href="https://testflight.apple.com/join/C1UOYbxh" target="_blank" rel="noopener noreferrer">📲  ios-demo</a></td>
   
   </tr>
